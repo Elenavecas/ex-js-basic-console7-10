@@ -51,6 +51,9 @@ console.log(coder);
 
 //Escribe tu código aquí
 
+console.log(typeof postres);
+console.log(typeof coder.nombre);
+console.log(typeof coder.edad);
 
 
 
