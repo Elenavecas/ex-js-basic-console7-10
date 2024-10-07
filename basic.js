@@ -112,7 +112,10 @@ console.log(resultadocomparar)
 
 //Escribe tu código aquí
 
-
+let var3 = 5;
+let var4 = 10;
+let resultadocompararmayor = var4 > var3;
+console.log(resultadocompararmayor)
 
 
 //Ejercicio 11: completa el ejercicio
