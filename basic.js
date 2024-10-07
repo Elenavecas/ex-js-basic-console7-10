@@ -123,7 +123,7 @@ console.log(resultadocompararmayor)
 let num1 = 15
 let num2 = 20
 
-let comparision = //Realiza la operación de comparación que consideres para que el resultado en consola sea true
+let comparision = num2 > num1;//Realiza la operación de comparación que consideres para que el resultado en consola sea true
 console.log(comparision)
 
 //Ejercicio 12: completa el ejercicio
