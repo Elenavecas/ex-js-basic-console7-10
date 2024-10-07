@@ -82,6 +82,8 @@ console.log("La resta de numeroa y numerob es: " + resultadoresta)
 
 //Ejercicio 8: Crea una varible que multiplique 2 números e imprime el resultado en consola.
 
+let resultadomulti = numeroa * numerob;
+console.log("El resultado de la multiplicación es: " + resultadomulti)
 //Escribe tu código aquí
 
 
