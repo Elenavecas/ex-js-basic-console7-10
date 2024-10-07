@@ -73,6 +73,10 @@ console.log("La suma de numeroa y numerob es: " + resultado)
 
 //Escribe tu código aquí
 
+let resultadoresta = numeroa - numerob;
+console.log("La resta de numeroa y numerob es: " + resultadoresta)
+
+
 
 
 
