@@ -62,6 +62,10 @@ console.log(typeof coder.edad);
 
 //Escribe tu código aquí
 
+let numeroa = 20;
+let numerob = 15;
+let resultado = numeroa + numerob;
+console.log("La suma de numeroa y numerob es: " + resultado)
 
 
 
