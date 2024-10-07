@@ -93,14 +93,18 @@ console.log("El resultado de la multiplicación es: " + resultadomulti)
 
 //Escribe tu código aquí
 
-
+let resultadodivi = numeroa / numerob
+console.log("El resultado de la división es: " + resultadodivi)
 
 
 //OPERADORES DE COMPARACIÓN
 // Ejercicio 10: Crea dos variables, la primera con valor 1 y la segunda con valor 2, compara ambas variables dentro de otra variable e imprime en la consola para ver el resultado.
 
 //Escribe tu código aquí
-
+let var1 =1;
+let var2 =2;
+let resultadocomparar = var1 == var2;
+console.log(resultadocomparar)
 
 
 
