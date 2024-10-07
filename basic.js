@@ -146,7 +146,11 @@ console.log(result2)
 
 //Escribe tu código aquí
 
+nom1 = "Elena ";
+Apel1 = "Vega";
 
+nombrecompleto = nom1 + Apel1
+console.log(nombrecompleto)
 
 
 
